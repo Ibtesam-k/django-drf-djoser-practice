@@ -1,0 +1,14 @@
+LittleLemon/__pycache__/__init__.cpython-311.pyc
+LittleLemon/__pycache__/settings.cpython-311.pyc
+LittleLemon/__pycache__/urls.cpython-311.pyc
+LittleLemon/__pycache__/wsgi.cpython-311.pyc
+LittleLemonAPI/__pycache__/__init__.cpython-311.pyc
+LittleLemonAPI/__pycache__/admin.cpython-311.pyc
+LittleLemonAPI/__pycache__/apps.cpython-311.pyc
+LittleLemonAPI/__pycache__/models.cpython-311.pyc
+LittleLemonAPI/__pycache__/serializers.cpython-311.pyc
+LittleLemonAPI/__pycache__/urls.cpython-311.pyc
+LittleLemonAPI/__pycache__/views.cpython-311.pyc
+LittleLemonAPI/migrations/__pycache__/__init__.cpython-311.pyc
+LittleLemonAPI/migrations/__pycache__/0001_initial.cpython-311.pyc
+LittleLemonAPI/migrations/__pycache__/0002_alter_category_options_alter_menuitem_title_and_more.cpython-311.pyc
